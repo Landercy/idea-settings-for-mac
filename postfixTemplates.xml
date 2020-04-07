@@ -1,0 +1,13 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.php">
+        <value>
+          <set>
+            <option value="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
