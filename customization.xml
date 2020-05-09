@@ -500,7 +500,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EditorDelete" is_action="true" action_type="1" position="6">
+    <group value="$Delete" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
