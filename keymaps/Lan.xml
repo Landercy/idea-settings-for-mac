@@ -265,7 +265,9 @@
   <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />
-  <action id="RenameElement" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
