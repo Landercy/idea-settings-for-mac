@@ -257,9 +257,7 @@
   <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="meta i" />
-  </action>
+  <action id="QuickJavaDoc" />
   <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RecentLocations" />
@@ -302,7 +300,9 @@
   <action id="ShelvedChanges.Rename" />
   <action id="ShowBookmarks" />
   <action id="ShowContent" />
-  <action id="ShowErrorDescription" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="ShowExecutionPoint" />
   <action id="ShowFilePath" />
   <action id="ShowFilterPopup" />
