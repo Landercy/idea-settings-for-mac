@@ -252,8 +252,11 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="PreviousWindow" />
+  <action id="ProjectRefreshAction" />
   <action id="ProjectViewChangeView" />
-  <action id="QuickActionPopup" />
+  <action id="QuickActionPopup">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
@@ -345,6 +348,7 @@
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleFindInSelection" />
   <action id="ToggleLineBreakpoint" />
+  <action id="ToggleRenderedDocPresentation" />
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
   <action id="UnselectPreviousOccurrence" />
