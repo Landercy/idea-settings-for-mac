@@ -430,7 +430,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="1" position="1">
+    <group value="ReformatCode" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -443,11 +443,6 @@
     <group value="EditorCut" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Version Control Systems" is_group="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorCopy" is_action="true" action_type="1" position="3">
