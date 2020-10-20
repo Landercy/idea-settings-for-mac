@@ -270,6 +270,11 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="JsonCopyPointer" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -278,6 +283,11 @@
     <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunAnything" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CopyReference" is_action="true" action_type="-1" position="6">
@@ -295,6 +305,11 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CopyAsRichText" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -310,6 +325,11 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CopyAsPlainText" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -318,6 +338,11 @@
     <group value="JsonCopyPointer" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$Copy" is_action="true" action_type="-1" position="3">
@@ -350,6 +375,11 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="LightEditModePopup" is_group="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -365,9 +395,19 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ShowIntentionsGroup" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ReformatCode" is_action="true" action_type="1" position="0">
@@ -390,6 +430,11 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CheckinProject" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="EditorCut" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -398,6 +443,11 @@
     <group value="EditorCut" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Version Control Systems" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorCopy" is_action="true" action_type="1" position="3">
