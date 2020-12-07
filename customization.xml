@@ -1,73 +1,8 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Images.SetBackgroundImage" is_action="true" action_type="-1" position="36">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="35">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RemoveBom.Group" is_group="true" action_type="-1" position="34">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ProjectViewPopupMenuSettingsGroup" is_group="true" action_type="-1" position="33">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="32">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="31">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="30">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareFileWithEditor" is_action="true" action_type="-1" position="29">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareTwoFiles" is_action="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GoToLinkTarget" is_action="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="25">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="EditorTabPopupMenuEx" is_group="true" action_type="-1" position="24">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="24">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="23">
@@ -80,11 +15,6 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="-1" position="23">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CompareClipboardWithSelection" is_action="true" action_type="-1" position="22">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -93,11 +23,6 @@
     <group value="Unsplit" is_action="true" action_type="-1" position="22">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="22">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorLangPopupMenu" is_group="true" action_type="-1" position="21">
@@ -110,11 +35,6 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ProjectViewPopupMenuRunGroup" is_group="true" action_type="-1" position="21">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="20">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -123,11 +43,6 @@
     <group value="ReopenClosedTab" is_action="true" action_type="-1" position="20">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$SearchWeb" is_action="true" action_type="-1" position="19">
@@ -140,11 +55,6 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ProjectViewPopupMenuModifyGroup" is_group="true" action_type="-1" position="19">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="18">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -153,11 +63,6 @@
     <group value="NextTab" is_action="true" action_type="-1" position="18">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorPopupMenu3" is_group="true" action_type="-1" position="17">
@@ -170,11 +75,6 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="AddToFavorites" is_group="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="16">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -185,11 +85,6 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="16">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="EditorPopupMenu2" is_group="true" action_type="-1" position="15">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -198,11 +93,6 @@
     <group value="PinActiveEditorTab" is_action="true" action_type="-1" position="15">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ProjectViewPopupMenuRefactoringGroup" is_group="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangeSplitOrientation" is_action="true" action_type="-1" position="14">
@@ -220,19 +110,9 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="InspectCodeActionInPopupMenus" is_group="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="MoveEditorToOppositeTabGroup" is_action="true" action_type="-1" position="12">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AnalyzeMenu" is_group="true" action_type="-1" position="12">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorToggleColumnMode" is_action="true" action_type="-1" position="11">
@@ -260,11 +140,6 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="FindUsages" is_action="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="$Paste" is_action="true" action_type="-1" position="8">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -280,11 +155,6 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="RunAnything" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -298,11 +168,6 @@
     <group value="CopyReferencePopup" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ProjectViewEditSource" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="6">
@@ -425,11 +290,6 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ReformatCode" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -483,6 +343,11 @@
     <group value="EditorToggleColumnMode" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RenameElement" is_action="true" action_type="1" position="8">
