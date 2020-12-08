@@ -21,6 +21,11 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
     <indentOptions>
